@@ -6,24 +6,24 @@ gems:
   - jekyll-redirect-from
   - jekyll-feed
 
-name: "The Blog of Joshua Cox"
-description: "Where I blog about Jekyll, techronmancy, docker, and other usually linux related stuff"
-url: http://joshuacox.github.io
-author: Joshua Cox
+name: "The Blog of JVL"
+description: "Convert Austin Into An Edible Garden, End the War on Drugs, Save the Internet"
+url: http://johnvanlowe.github.io
+author: John Van Lowe
 locale: eng-US
 
 #REQUIRED
-org_site: joshuacox.github.io
-org_url: https://joshuacox.github.io
-org_name: Joshua Cox
+org_site: johnvanlowe.github.io
+org_url: https://johnvanlowe.github.io
+org_name: John Van Lowe
 org_summary: > # Enter your summary on the next line. Be sure to indent by two spaces.
-  Techromancer
+  Wildcard
 org_full_description: > # Enter your description on the next line. Be sure to indent by two spaces.
-  Have Portable Penetration Testing Hardware - will travel
+  To be continued...
 
 #OPTIONAL
 #Non US-address support coming soon
-org_general_email_inbox: uberthoth@gmail.com
+org_general_email_inbox: jvl@webhosting.coop
 org_street_address: 1105 West Oltorf #Please include suite number on the line below
 org_address_suite: Suite 100
 org_city: Austin
@@ -31,13 +31,11 @@ org_state: TX
 org_zip: > # Enter zip on next line. Be sure to indent by two spaces.
   78704
 org_phone: > # Enter phone on next line. Be sure to indent by two spaces.
-  (512) 441-5269
+  (512) 484-0750
 
 #SOCIAL MEDIA
-github_username: joshuacox
-twitter_username: uberthoth
-facebook_username: uberthoth
-org_instagram_username: uberthoth
+github_username: johnvanlowe
+facebook_username: johnvanlowe
 
 #TAX STATUS
 #Your site will display an appropriate message below the Donate section
@@ -51,11 +49,11 @@ fiscal_sponsor_name:
 #To use these services, enter the required usernames. For further instructions, consult the README file.
 #If you do not wish to use a service, simply remove everything after the colon (:), leaving the item blank
 donorbox_campaign_name: free-template-demo
-tinyletter_username: uberthoth
+tinyletter_username: johnvanlowe
 
 #SEARCH ENGINES
 #Changing this next setting to 'true' will allow your site to be indexed by search engines (like Google)
-publish: true
+publish: false
 
 #THEME
 #Select one of the five color schemes (default, one, two, three, or four)
@@ -96,8 +94,8 @@ permalink: pretty
 markdown: rdiscount
 prose:
   rooturl: '_posts'
-  siteurl: 'http://joshuacox.github.io/'
-  relativeLinks: 'http://joshuacox.github.io/links.jsonp'
+  siteurl: 'http://johnvanlowe.github.io/'
+  relativeLinks: 'http://johnvanlowe.github.io/links.jsonp'
   media: 'media'
   metadata:
     _posts:
